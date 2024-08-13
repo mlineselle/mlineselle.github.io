@@ -1,7 +1,7 @@
 # Matt Selle ePortfolio Final Capstone from SNHU
 Contained in this ePortfolio is an informal code review, three coding artifacts that were enhanced upon, narratives for each artifact, and a professional self-assessment of this final capstone and my experience in the Computer Science program
 ## Informal Code Review
-<iframe width="560" height="315" src="https://youtu.be/zqlPjvbjAMk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/embed/zqlPjvbjAMk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 This video contains an informal code review for all three artifacts that were later enhanced based on the points brought up in this code review.
 
 ## Artifact One - TI Board Thermometer
